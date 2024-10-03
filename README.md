@@ -1,5 +1,5 @@
 # Human Computer Iteration
-Project of the UC Human Computer Iteration. LEIC, Year 3, Semester 1.
+Project of the UC.
 
 # Project "Virtual Gym"
 This project contains a prototype of a gym app. 
